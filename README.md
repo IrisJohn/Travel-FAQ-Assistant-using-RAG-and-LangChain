@@ -1,1 +1,3 @@
 # Travel-FAQ-Assistant-using-RAG-and-LangChain
+Travel FAQ Assistant using RAG and LangChain : 
+This project explores building a Travel Booking FAQ Assistant by combining GPT-based language models with Retrieval-Augmented Generation (RAG) techniques. I created a custom knowledge base from frequently asked travel questions, converted them into document formats, and used different retrieval methods (FAISS, BM25) to fetch relevant information. Using LangChain and OpenAI APIs, I built a conversational assistant that answers user queries in real time based on the retrieved context. The project also experiments with retrieval techniques beyond traditional vector search to improve response quality and grounding.
